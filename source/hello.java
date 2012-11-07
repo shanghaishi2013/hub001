@@ -11,4 +11,6 @@ I want to establish a merge state
 have finished merged 
 let us look whether we can push merged commit
 
+xingqisan
+
 today is  ĞÇÆÚÈı
