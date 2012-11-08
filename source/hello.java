@@ -11,6 +11,8 @@ I want to establish a merge state
 have finished merged 
 let us look whether we can push merged commit
 
+I need to push directly
+
 xingqisan
 wangjing zai wo shenbian
 
