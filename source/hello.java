@@ -12,5 +12,6 @@ have finished merged
 let us look whether we can push merged commit
 
 xingqisan
+wangjing zai wo shenbian
 
 today is  ĞÇÆÚÈı
