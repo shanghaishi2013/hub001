@@ -13,6 +13,7 @@ let us look whether we can push merged commit
 
 I need to push directly
 double
+third
 
 xingqisan
 wangjing zai wo shenbian
